@@ -2,6 +2,8 @@
 
 This API demonstration, developed using FastAPI, serves as a Review Response Bot. It takes a product description and user-generated reviews and provides responses based on the description. It uses the OpenAI GPT-3 model to generate custom responses for the reviews. The API is intended for applications that involve responding to user reviews.
 
+Do not forget to replace YOUR_OPENAI_API_KEY from api.py with your own OpenAI API key. 
+
 ## API Endpoint
 
 - Endpoint: `/test`
