@@ -3,7 +3,7 @@ import openai
 import re
 import requests
 
-api_key = "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"
+api_key = "YOUR_OPENAI_API_KEY"
 app = FastAPI()
 openai.api_key = api_key
 
